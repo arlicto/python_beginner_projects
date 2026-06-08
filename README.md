@@ -12,6 +12,7 @@ A collection of small Python projects built while learning programming.
 | [love-calculator](./love-calculator) | Love compatibility calculator by counting letters in "TRUE" and "LOVE". |
 | [blackjack](./blackjack) | Text-based Blackjack card game against a dealer. |
 | [caesar-cipher](./caesar-cipher) | Caesar cipher encoder/decoder that shifts letters by a chosen amount. |
+| [hist-painting](./hist_painting_project) | Turtle graphics dot painting — extracts colors from an image and paints rows of dots (Damien Hirst style). |
 
 ## Usage
 
