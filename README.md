@@ -13,9 +13,11 @@ A collection of small Python projects built while learning programming.
 | [blackjack](./blackjack) | Text-based Blackjack card game against a dealer. |
 | [caesar-cipher](./caesar-cipher) | Caesar cipher encoder/decoder that shifts letters by a chosen amount. |
 | [hist-painting](./hist_painting_project) | Turtle graphics dot painting — extracts colors from an image and paints rows of dots (Damien Hirst style). |
+| [snake-game](./snake_game) | Classic Snake Game built using Turtle graphics, featuring food consumption, collision detection, and score tracking. |
 
 ## Usage
 
 ```bash
-git clone https://github.com/arlicto/small_python_projects.git
+git clone https://github.com/arlicto/python_beginner_projects.git
 ```
+
