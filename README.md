@@ -4,7 +4,6 @@ A collection of small Python projects built while learning programming.
 
 | Project | Description |
 |---------|-------------|
-| [diabetesPrediction](./diabetesPrediction) | ML model using scikit-learn to predict diabetes risk from a tabular dataset. |
 | [guess-the-number](./guess-the-number) | Number guessing game — player guesses a random number within limited attempts. |
 | [higher-lower-game](./higher-lower-game) | Compare Instagram follower counts of two celebrities and guess who has more. |
 | [love-calculator](./love-calculator) | Love compatibility calculator by counting letters in "TRUE" and "LOVE". |
