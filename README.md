@@ -4,6 +4,7 @@ A collection of small Python projects built while learning programming.
 
 | Project | Description |
 |---------|-------------|
+| [turtle-crossing-game](./turtle_crossing_game) | Turtle crossing game (Frogger-style) — navigate a turtle across a busy highway of moving cars. |
 | [turtle_race](./turtle_race) | Turtle racing game — turtles move random distances; first across the finish line wins. |
 | [diabetesPrediction](./diabetesPrediction) | ML model using scikit-learn to predict diabetes risk from a tabular dataset. |
 | [rock-vs-mine-prediction](./rock-vs-mine-prediction) | Logistic regression model that classifies sonar signals as rock or mine. |
