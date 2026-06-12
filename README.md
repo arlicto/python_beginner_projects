@@ -6,7 +6,6 @@ A collection of small Python projects built while learning programming.
 |---------|-------------|
 | [turtle_race](./turtle_race) | Turtle racing game — turtles move random distances; first across the finish line wins. |
 | [diabetesPrediction](./diabetesPrediction) | ML model using scikit-learn to predict diabetes risk from a tabular dataset. |
-| [rock-vs-mine-prediction](./rock-vs-mine-prediction) | Logistic regression model that classifies sonar signals as rock or mine. |
 | [guess-the-number](./guess-the-number) | Number guessing game — player guesses a random number within limited attempts. |
 | [higher-lower-game](./higher-lower-game) | Compare Instagram follower counts of two celebrities and guess who has more. |
 | [love-calculator](./love-calculator) | Love compatibility calculator by counting letters in "TRUE" and "LOVE". |
